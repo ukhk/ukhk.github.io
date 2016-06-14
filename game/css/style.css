@@ -1,0 +1,9 @@
+body {background-image:url("https://pbs.twimg.com/profile_images/719468068569800704/LniVgqoK.jpg");
+background-size: cover;}
+
+body {color:#DF013A;}
+
+button {background:#DF013A;
+      font-size:30px;
+      border:2px solid #000000;
+display: block;}
